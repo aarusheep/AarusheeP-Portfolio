@@ -10,5 +10,4 @@ This repository consists of:
 5) Rat in a Maze — An IA submission where we were required to create a poster. This piece is a strong example of how well I incorporate data and visuals into a cohesive design, reflecting my attention to detail.
 
 I sincerely hope that you all like it.
-Thank you,
-Aarushee Pandagare.
+Thank you.
